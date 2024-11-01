@@ -1,0 +1,7 @@
+fastapi
+pillow
+qwen_vl_utils
+torch
+torchvision
+transformers
+uvicorn
